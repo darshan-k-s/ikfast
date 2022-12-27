@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="lib/libj2s6s300_arm_moveit_ikfast_plugin">
+  <class name="j2s6s300_arm/IKFastKinematicsPlugin" type="j2s6s300_arm::IKFastKinematicsPlugin" base_class_type="kinematics::KinematicsBase">
+    <description>IKFast61 plugin for closed-form kinematics of j2s6s300 arm</description>
+  </class>
+</library>
